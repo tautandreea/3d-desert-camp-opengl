@@ -1,0 +1,180 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl base.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_base_BaseColor.png
+
+newmtl base.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_hat_BaseColor.png
+
+newmtl base_darker.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_base darker_BaseColor.png
+
+newmtl beard.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_beard_BaseColor.png
+
+newmtl belt.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_belt_BaseColor.png
+
+newmtl belt.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_belt_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_belt_Normal.png
+
+newmtl cuff.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_cuff_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_cuff_Normal.png
+
+newmtl hair.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_hair_BaseColor.png
+
+newmtl hair.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_moustache_BaseColor.png
+
+newmtl hat.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_hat_BaseColor.png
+map_Ns C:/mid east 2_hat_Roughness.png
+
+newmtl inner_cloth.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_inner cloth_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_inner cloth_Normal.png
+
+newmtl outer_cloth.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_outer cloth_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_outer cloth_Normal.png
+
+newmtl pantsu.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_pantsu_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_pantsu_Normal.png
+
+newmtl shoes.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_shoes_BaseColor.png
+
+newmtl shoes.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_shoes_BaseColor.png
+map_Bump -bm 1.000000 C:/mid east 2_shoes_Normal.png
+
+newmtl skin.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 1_skin.001_BaseColor.png
+map_Ns C:/mid east 1_skin.001_Roughness.png
+map_Bump -bm 1.000000 C:/mid east 1_skin.001_Normal.png
+
+newmtl skin.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/mid east 2_skin.001_BaseColor.png
+map_Ns C:/mid east 2_skin.001_Roughness.png
+map_Bump -bm 1.000000 C:/mid east 2_skin.001_Normal.png
